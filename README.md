@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 
 #### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="www.linkedin.com/in/rolandas-simkus">LinkedIn</a>
+- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/rolandas-simkus">LinkedIn</a>
