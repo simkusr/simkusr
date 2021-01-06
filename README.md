@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 
 -->
 
-
-- 🔭 I’m currently working full time with *Data visualization* project
 - ⚙️  I use daily: `.py`, `.js`, `.html`, `.css`, `.json`, `.sql`
 - 👯 I’m looking to collaborate on **Open Source Python projects**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simkusr/)
+
 
 
 #### Find me around the web 🌎:
