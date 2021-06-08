@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+
+
 <!--
 **simkusr/simkusr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,11 +19,6 @@ Here are some ideas to get you started:
 
 -->
 
-- ⚙️  I use daily: `.py`, `.js`, `.html`, `.css`, `.json`, `.sql`
+- ⚙️  I use daily: `.py`, `.sh`, `.tf`, `.json`
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simkusr/)
-
-
-
-#### Find me around the web 🌎:
-- 💼 Connecting and sharing professional updates on <a href="https://www.linkedin.com/in/simkusr">LinkedIn</a>
