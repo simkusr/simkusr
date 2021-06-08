@@ -12,10 +12,14 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 - ☁️ Experience working with [AWS](https://aws.amazon.com/) using [Terraform](https://www.terraform.io/) scripts to setup infrastructure
 - ⛏️ Creating CI/CD pipelines in [GitHub Actions](https://docs.github.com/en/actions) and [GitLab CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 
-### Interested in
+
+## My working experience as a Python developer
+**TBD**
+
+## Interested in
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
-### Contact me
+## Contact me
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simkusr/) or `rolandas et simkus dot io`
 
 
