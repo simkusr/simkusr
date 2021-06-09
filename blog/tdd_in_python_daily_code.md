@@ -1,5 +1,18 @@
 # TDD in Python daily code
 
+```
+Why should I write tests before I write code?
+How can you write tests when there is nothing to test?
+```
+
+If you agree with above questions, then this post is for you my fellow codecrafter!
+
+
+
+
+
+
+
 Any developer that is working longer than 1 year as a professional has heard the term [TDD](https://en.wikipedia.org/wiki/Test-driven_development), but in case you haven't heard or don't know what it is, then please read about [Test Driven Development](https://en.wikipedia.org/wiki/Test-driven_development) before continuing reading. I will not provide the description of `TDD` in this blog post.
 
 
