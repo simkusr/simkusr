@@ -27,7 +27,7 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 # Certificates
 
 <p align="center">
-<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" width="45%" height="350" />
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" width="30%" height="250" />
 &nbsp; &nbsp; &nbsp; &nbsp;
-<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" width="45%" height="350" />
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" width="30%" height="250" />
 </p>
