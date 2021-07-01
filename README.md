@@ -16,6 +16,10 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 ## My working experience as a Python developer
 **TBD**
 
+### Certificates
+- [Learn GitLab CI / CD with Docker & DevOps: obtain valuable DevOps skills. Build pipelines.](https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg)
+- [Create production-grade scalable deployments with GitLab, EC2, ALB, ECS, ECR, VPC, S3 and Infrastructure as Code (IaC).](https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg)
+
 ## Interested in
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
