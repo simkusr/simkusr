@@ -33,6 +33,23 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 <img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Terraform%20and%20GitLab%20CICD%20certificate.jpg" width="30%" />
 &nbsp; &nbsp; &nbsp; &nbsp;
 <img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/GitLab%20CICD%20certificate.jpg" width="30%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/The%20Complete%20Python%20Masterclass:%20Learn%20Python%20From%20Scratch.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/The%20Complete%20Python%20Masterclass:%20Learn%20Python%20From%20Scratch.jpg" width="30%" />
 </p>
+  
+<p align="center">
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Microservices%20Software%20Architecture:%20Patterns%20and%20Techniques.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Microservices%20Software%20Architecture:%20Patterns%20and%20Techniques.jpg" width="30%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Four%20Pillars%20of%20OOP%20in%20Python%203.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Four%20Pillars%20of%20OOP%20in%20Python%203.jpg" width="30%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Flask%20Tutorial.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Flask%20Tutorial.jpg" width="30%" />
+</p>
+
+<p align="center">
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Cybersecurity%20Awareness%20Training.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Cybersecurity%20Awareness%20Training.jpg" width="30%" />
+&nbsp; &nbsp; &nbsp; &nbsp;
+<img src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Computer%20Science%20101:%20Master%20the%20Theory%20Behind%20Programming.jpg" data-canonical-src="https://github.com/simkusr/simkusr/blob/master/static/img/certificates/Computer%20Science%20101:%20Master%20the%20Theory%20Behind%20Programming.jpg" width="30%" />
+</p>
+
 </details>
 
