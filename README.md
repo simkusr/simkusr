@@ -2,7 +2,7 @@
 
 As you came across my profile, I will try to give you a short introduction about me and what I'm doing.
 
-[test](/posts/tdd-in-daily-coding-cycle)
+[test](/posts/tdd-in-daily-coding-cycle.md)
 
 ## About me
 
