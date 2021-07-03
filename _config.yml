@@ -2,6 +2,13 @@ theme: jekyll-theme-hacker
 show_downloads: false
 github:
   is_project_page: false
-layout: post
+
+layout: main
+title: "CodeCrafter"
+permalink: /
+
+layout: blog_post
 title: "TDD"
-permalink: /TDD.md/
+permalink: /test_driven_development.md
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: TDD GO
