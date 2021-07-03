@@ -1,6 +1,6 @@
 # Hello there 👋
 
-As you came across my GitHub profile, I will try to give you a short introduction about me and what I'm doing here on GitHub.
+As you came across my profile, I will try to give you a short introduction about me and what I'm doing.
 
 ## About me
 
