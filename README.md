@@ -13,15 +13,12 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 - ⛏️ Creating CI/CD pipelines with [GitHub Actions](https://docs.github.com/en/actions) and [GitLab CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 
 
-## My working experience as a Python developer
-**TBD**
-
 ## Interested in
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
-## Contact me
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/simkusr/) or `rolandas et simkus dot io`
+## Contact me 📫 `rolandas et simkus dot io`
 
+## My codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
 
 
 # My Certificates
