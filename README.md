@@ -25,7 +25,6 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 <details>
   <summary>Click to view my certificates!</summary>
   
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
