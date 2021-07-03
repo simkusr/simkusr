@@ -2,3 +2,6 @@ theme: jekyll-theme-hacker
 show_downloads: false
 github:
   is_project_page: false
+layout: page
+title: "EXAMPLE"
+permalink: /blog_example.md
