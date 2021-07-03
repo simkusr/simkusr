@@ -16,12 +16,11 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 ## Interested in
 - 👯 I’m looking to collaborate on **Open Source Python projects**
 
+## Codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
+
 ## Contact me 📫 `rolandas et simkus dot io`
 
-## My codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
-
-
-# My Certificates
+## Certificates
 
 <details>
   <summary>Click to view my certificates!</summary>
