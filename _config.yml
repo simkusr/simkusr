@@ -3,4 +3,3 @@ show_downloads: false
 github:
   is_project_page: false
 permalink: /
-post_url: /_posts/2021-07-03-your-tdd-in-your-daily-coding-routine
