@@ -1,4 +1,5 @@
 theme: jekyll-theme-hacker
 show_downloads: false
+layout: page
 title: ""
 permalink: /posts/tdd-in-daily-coding-cycle.md
