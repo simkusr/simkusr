@@ -1,3 +1,11 @@
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Hello there 👋
 
 As you came across my GitHub profile, I will try to give you a short introduction about me and what I'm doing here on GitHub.
