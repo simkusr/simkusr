@@ -2,8 +2,6 @@
 
 As you came across my profile, I will try to give you a short introduction about me and what I'm doing.
 
-[test](/posts/tdd-in-daily-coding-cycle.md)
-
 ## About me
 
 I'm a self thought [Python](https://www.python.org/) codecrafter working hard to gain as much experience with `Python` and it's eco system as I can. It involves not only coding using Python language but also working hard to develop a solid infrastructure using [Terraform](https://www.terraform.io/) scripts to prepare and deploy sollutions to [AWS](https://aws.amazon.com/). Also while working on different [Cloud Service Providers](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers) like [Heroku](https://www.heroku.com/) or [PythonAnywhere](https://www.pythonanywhere.com/) I know how easily and fast any size of application can be published to the [www](https://en.wikipedia.org/wiki/World_Wide_Web).
@@ -15,8 +13,10 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 - ⛏️ Creating CI/CD pipelines with [GitHub Actions](https://docs.github.com/en/actions) and [GitLab CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 
 
-## Interested in
-- 👯 I’m looking to collaborate on **Open Source Python projects**
+## Blogs
+- [TDD In Daily Coding Cycle](/posts/tdd-in-daily-coding-cycle.md)
+
+
 
 ## Codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
 
