@@ -12,12 +12,6 @@ I'm a self thought [Python](https://www.python.org/) codecrafter working hard to
 - ☁️ Experience working with [AWS](https://aws.amazon.com/) using [Terraform](https://www.terraform.io/) scripts to prepare infrastructure
 - ⛏️ Creating CI/CD pipelines with [GitHub Actions](https://docs.github.com/en/actions) and [GitLab CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
 
-
-## Blogs
-- [TDD In Daily Coding Cycle](/posts/tdd-in-daily-coding-cycle.md)
-
-
-
 ## Codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
 
 ## Contact me 📫 `rolandas et simkus dot io`
