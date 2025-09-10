@@ -1,17 +1,56 @@
 # Hello there 👋
 
-As you came across my profile, I will try to give you a short introduction about me and what I'm doing.
+Welcome to my GitHub! I’m **Rolandas Šimkus**, a software engineer specializing in **Golang** and cloud infrastructure.
 
-## About me
+---
 
-I'm a self thought [Python](https://www.python.org/) codecrafter working hard to gain as much experience with `Python` and it's eco system as I can. It involves not only coding using Python language but also working hard to develop a solid infrastructure using [Terraform](https://www.terraform.io/) scripts to prepare and deploy sollutions to [AWS](https://aws.amazon.com/). Also while working on different [Cloud Service Providers](https://www.redhat.com/en/topics/cloud-computing/what-are-cloud-providers) like [Heroku](https://www.heroku.com/) or [PythonAnywhere](https://www.pythonanywhere.com/) I know how easily and fast any size of application can be published to the [www](https://en.wikipedia.org/wiki/World_Wide_Web).
+## About Me 🧑‍💻
 
-### A Short summary of my tools that I use daily
-- ⚙️ Daily using `.py`, `.go`, `.sh`, `.tf`, `.json`, `.yml`, `git`
-- 📦 Working daily with [Flask](https://flask.palletsprojects.com/en/2.0.x/), [pytest](https://docs.pytest.org/en/6.2.x/), [Requests](https://docs.python-requests.org/en/master/), [flake8](https://flake8.pycqa.org/en/latest/), [Mypy](https://mypy.readthedocs.io/en/stable/)
-- ☁️ Experience working with [AWS](https://aws.amazon.com/) using [Terraform](https://www.terraform.io/) scripts to prepare infrastructure
-- ⛏️ Creating CI/CD pipelines with [GitHub Actions](https://docs.github.com/en/actions) and [GitLab CI/CD pipelines](https://docs.gitlab.com/ee/ci/pipelines/)
+I build **high-performance backend systems**, design **cloud infrastructure**, and automate deployment pipelines. While **Go** is my primary language, I also use **Python** for scripting, tooling, and rapid prototyping.
 
-## Codecrafting 💻 experience can be found on [LinkedIn](https://www.linkedin.com/in/simkusr/)
+I focus on building **high-performance backend systems in Go**, using Python as a secondary tool for scripting and prototyping.  
+While my current work and expertise are fully dedicated to cloud-native applications and automation, I am gradually exploring **systems programming and Linux kernel development** as a long-term aspiration to expand my skills in low-level programming with C.
 
-## Contact me 📫 `rolandas et simkus dot io`
+---
+
+## Tools & Daily Workflow ⚙️
+
+- **Languages & scripting:** `.go`, `.py`, `.sh`, `.tf`, `.json`, `.yml`, `git`  
+- **Go ecosystem:** standard library, `gin`, `gorm`, `cobra`  
+- **Python ecosystem:** [Flask](https://flask.palletsprojects.com/), [pytest](https://docs.pytest.org/), `requests`, `flake8`, `mypy`  
+- **Cloud & Infrastructure:** [AWS](https://aws.amazon.com/), [GCP](https://cloud.google.com/), [Terraform](https://www.terraform.io/), Heroku, PythonAnywhere  
+- **Databases:** MySQL, PostgreSQL  
+- **Monitoring & Management:** Grafana, K9s  
+- **CI/CD & Automation:** GitHub Actions, GitLab CI/CD pipelines
+
+---
+
+## Skills & Technologies ⚡
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-F05032?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![K9s](https://img.shields.io/badge/K9s-000000?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+---
+
+## Current Focus 🎯
+
+- Advanced **Golang backend services** and **microservices architecture**  
+- **Cloud-native solutions** with automation and CI/CD  
+- Gradually expanding expertise in **systems programming and Linux kernel development** for the long term  
+- Open-source contributions in Go and low-level systems projects
+
+---
+
+## Connect with Me 📫
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simkusr/)  
+✉️ Email: `rolandas et simkus dot io`
