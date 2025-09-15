@@ -6,10 +6,10 @@ Welcome to my GitHub! I’m **Rolandas Šimkus**, a software engineer specializi
 
 ## About Me 🧑‍💻
 
-I build **high-performance backend systems**, design **cloud infrastructure**, and automate deployment pipelines. While **Go** is my primary language, I also use **Python** for scripting, tooling, and rapid prototyping.
+I design and build **high-performance backend systems** with Go, automate deployment pipelines, and manage **cloud-native infrastructure**.  
+While **Golang** is my primary language, I also use **Python** for scripting, tooling, and quick prototyping.  
 
-I focus on building **high-performance backend systems in Go**, using Python as a secondary tool for scripting and prototyping.  
-While my current work and expertise are fully dedicated to cloud-native applications and automation, I am gradually exploring **systems programming and Linux kernel development** as a long-term aspiration to expand my skills in low-level programming with C.
+My day-to-day work is focused on **scalable backend services** and **automation in cloud environments**, while I’m also continuously learning and gradually exploring **systems programming and Linux kernel development** to deepen my expertise in low-level performance and optimization.
 
 ---
 
@@ -31,7 +31,7 @@ While my current work and expertise are fully dedicated to cloud-native applicat
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-F05032?style=for-the-badge&logo=googlecloud&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
@@ -43,10 +43,10 @@ While my current work and expertise are fully dedicated to cloud-native applicat
 
 ## Current Focus 🎯
 
-- Advanced **Golang backend services** and **microservices architecture**  
-- **Cloud-native solutions** with automation and CI/CD  
-- Gradually expanding expertise in **systems programming and Linux kernel development** for the long term  
-- Open-source contributions in Go and low-level systems projects
+- Building advanced **backend services and microservices** in Go  
+- Designing **cloud-native solutions** with CI/CD and automation  
+- Expanding knowledge in **systems programming and Linux kernel internals** as a long-term learning path  
+- Contributing to **open-source projects** in Go and infrastructure tooling  
 
 ---
 
